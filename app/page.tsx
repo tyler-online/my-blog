@@ -13,13 +13,13 @@ export default function Home() {
       </p>
 
       <section className="mt-12">
-        <h2 className="text-2xl font-semibold">Posts</h2>
+        <h2 className="text-2xl font-semibold text-black">Posts</h2>
 
         <div className="mt-6 space-y-6">
           {posts.map((post) => (
             <article key={post.slug}>
               <Link href={`/posts/${post.slug}`}>
-                <h3 className="text-xl font-semibold hover:underline">
+                <h3 className="text-xl font-semibold text-blackhover:underline">
                   {post.title}
                 </h3>
               </Link>
