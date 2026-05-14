@@ -20,7 +20,7 @@ export type FullPost = PostPreview & {
 export function getAllPosts(): PostPreview[] {
   const fileNames = fs.readdirSync(postsDirectory);
 
-  return fileNames.map((fileName) => {
+  const posts = fileNames.map((fileName) => {
     const slug = fileName.replace(/\.md$/, "");
     const fullPath = path.join(postsDirectory, fileName);
     const fileContents = fs.readFileSync(fullPath, "utf8");
@@ -32,6 +32,14 @@ export function getAllPosts(): PostPreview[] {
       date: String(data.date),
       description: String(data.description),
     };
+  });
+
+  return posts.sort((a, b) => {
+    const tb = Date.parse(b.date);
+    const ta = Date.parse(a.date);
+    const nb = Number.isNaN(tb) ? 0 : tb;
+    const na = Number.isNaN(ta) ? 0 : ta;
+    return nb - na;
   });
 }
 
