@@ -1,5 +1,5 @@
 ---
-title: "Learning vs. knowing vs. feeling"
+title: "What Panthalassa's raise means (the NIMBYs won)"
 date: "May 14, 2026"
 ---
 
