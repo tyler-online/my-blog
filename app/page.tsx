@@ -23,7 +23,6 @@ export default function Home() {
                 </h3>
               </Link>
               <p className="mt-1 text-sm text-gray-500">{post.date}</p>
-              <p className="mt-2 text-gray-600">{post.description}</p>
             </article>
           ))}
         </div>
