@@ -1,10 +1,7 @@
-\---
-
-title: "The greatest mistake of my 20s"
-
+---
+title: "The greatest mistake (of my 20s)"
 date: "May 13, 2026"
-
-\---
+---
 
 
 
