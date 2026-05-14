@@ -19,7 +19,7 @@ export default function Home() {
           {posts.map((post) => (
             <article key={post.slug}>
               <Link href={`/posts/${post.slug}`}>
-                <h3 className="text-xl font-semibold text-blackhover:underline">
+                <h3 className="text-xl font-semibold text-black hover:underline">
                   {post.title}
                 </h3>
               </Link>
