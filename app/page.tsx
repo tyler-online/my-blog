@@ -1,4 +1,4 @@
-// TBC: THIS FILE CONTROLS THE HOME PAGE. LAST EDIT: REMOVED DESCRIPTION OF ARTICLES 05-13-2026
+// TBC: THIS FILE CONTROLS THE HOME PAGE
 import Link from "next/link";
 import { getAllPosts } from "@/lib/posts";
 

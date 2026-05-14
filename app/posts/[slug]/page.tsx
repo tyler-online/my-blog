@@ -17,7 +17,7 @@ export default async function PostPage({
   const post = await getPostBySlug(slug);
 
   return (
-    <main className="mx-auto max-w-2xl px-6 py-16">
+    <main className="mx-auto max-w-2xl px-6 py-16 text-black">
       <p className="text-sm text-gray-500">{post.date}</p>
       <h1 className="mt-2 text-5xl font-bold tracking-tight">{post.title}</h1>
   
