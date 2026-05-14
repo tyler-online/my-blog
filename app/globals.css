@@ -30,3 +30,9 @@ body {
 }
 
 @plugin "@tailwindcss/typography";
+
+/* prose-gray sets light list markers; force markers to match body text */
+.prose.prose-gray {
+  --tw-prose-bullets: #000000;
+  --tw-prose-counters: #000000;
+}
