@@ -9,13 +9,13 @@ The greatest mistake of my 20s was that I viewed time as money, and money as tim
 
 In the traditional view (that I too often fell susceptible to):
 
-* Money is finite, and I should expend significant effort figuring out how to acquire it.
-* Time is infinite, and I should only expend a little effort to ensure it’s not being wasted.
+- Money is finite, and I should expend significant effort figuring out how to acquire it.
+- Time is infinite, and I should only expend a little effort to ensure it’s not being wasted.
 
 In reality:
 
-* There is an infinite amount of money out there (more than I could ever spend, or even want), and I should only use a bit of mental bandwidth on financial hygiene.
-* Time is limited \& hugely constrained, both on a daily basis and in the totality of life. I should be very judicious with my time. I should wake up every day and view each hour as a “token” I can spend. After a healthy 8 hours of sleep, I have 16 remaining tokens to spend. It’s worth thinking hard about how to spend those tokens.
+- There is an infinite amount of money out there (more than I could ever spend, or even want), and I should only use a bit of mental bandwidth on financial hygiene.
+- Time is limited \& hugely constrained, both on a daily basis and in the totality of life. I should be very judicious with my time. I should wake up every day and view each hour as a “token” I can spend. After a healthy 8 hours of sleep, I have 16 remaining tokens to spend. It’s worth thinking hard about how to spend those tokens.
 
 I now think the right approach is to try to understand what is important to you, frequently audit \& rebalance how you allocate your 16 daily “time tokens” to be in alignment with what is important, and forget the rest. If your life’s mission isn’t clear to you (it certainly wasn’t for me in my early 20s), then a great use of these tokens is to experiment to figure out what you are interested in. From interest develops passion, and from passion develops purpose.
 
@@ -33,11 +33,11 @@ I think a good heuristic of whether you are implementing the “time token” an
 
 Common failure modes:
 
-* Thinking so much you never do anything
-* Working so hard for money you miss the point of life, or your purpose
-* Not undertaking a venture because “it will take too long,” and time is limited. Time will pass anyways, so just do what you care about. Anything less is time wasted.
-* Caring so little about money that you abandon strategy completely (leverage still matters; h/t Naval)
-* Spending time tokens on some grand vision that sounds good, but has not been pressure tested
+- Thinking so much you never do anything
+- Working so hard for money you miss the point of life, or your purpose
+- Not undertaking a venture because “it will take too long,” and time is limited. Time will pass anyways, so just do what you care about. Anything less is time wasted.
+- Caring so little about money that you abandon strategy completely (leverage still matters; h/t Naval)
+- Spending time tokens on some grand vision that sounds good, but has not been pressure tested
 
 If you’re unsure whether you should focus more time on earning money or life design \& thinking – here’s a tongue-in-cheek starting point (source: an Overeducated Gibbon on X). \[INSERT IMAGE]
 
