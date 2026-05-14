@@ -1,5 +1,5 @@
 ---
-title: "We still know how to do this for now..."
+title: "We still know how to do this (for now)..."
 date: "May 14, 2026"
 ---
 
