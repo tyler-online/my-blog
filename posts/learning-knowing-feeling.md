@@ -1,6 +1,6 @@
 ---
 title: "Learning vs. knowing vs. feeling"
-date: "May 13, 2026"
+date: "May 14, 2026"
 ---
 
 I previously wrote about the biggest mistake of my 20s. The lessons I learned weren’t particularly novel, so why did I make that mistake?
