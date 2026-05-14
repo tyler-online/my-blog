@@ -1,7 +1,6 @@
 ---
 title: "My First Post"
 date: "2026-05-12"
-description: "A short test post."
 ---
 
 # My First Post
