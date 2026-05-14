@@ -9,7 +9,7 @@ export default function Home() {
     <main className="mx-auto max-w-2xl px-6 py-16">
       <h1 className="text-5xl font-bold tracking-tight">Tyler Miller</h1>
       <p className="mt-4 text-lg text-gray-600">
-        Essays on business, technology, culture, and whatever else seems worth writing down.
+        Interested in frontier technology. Founder, investor, likes adventures, and now apparently writing.
       </p>
 
       <section className="mt-12">
